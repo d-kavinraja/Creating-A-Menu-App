@@ -7,7 +7,8 @@ Final project for Working with Data in iOS (Meta iOS Developer Professional Cert
 - [x] Decodes the elements sent by the server into a suitable Swift struct.
 - [x] Converts the decoded elements into Core Data format and saves that to the database.
 - [x] Shows a search box at the top of the food menu.
-- [x] Has a mechanism that uses the contents of the search box and filters entries, just showing those which contain the string typed in the search box in their name.
+- [x] Has a mechanism that uses the contents of the search box and filters entries, just showing those which contain the string typed in 
+the search box in their name.
 - [x] Shows the list in ascending alphabetical order.
 - [x] Includes sorting and filtering that is both diacritic and case insensitive.
 - [x] Shows an alert panel confirming the order of a particular food for every item in the food menu tapped by the customer.
