@@ -1,5 +1,4 @@
 import Foundation
-
 class Model:ObservableObject {
   let restaurants = [
     RestaurantLocation(city: "Las Vegas",
