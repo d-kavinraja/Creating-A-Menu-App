@@ -1,5 +1,5 @@
 # Creating A Menu App
-Final project for Working with Data in iOS (Meta iOS Developer Professional Certificate).
+Final project for Working with Data in iOS 
 ## Preview
 ![Demonstration](https://user-images.githubusercontent.com/93353925/225434412-fb7384d0-4807-4be6-ac4b-edb609da2fd3.gif)
 ## Review criteria
